@@ -1,4 +1,6 @@
-### Hi there 👋
+I love building fantastic user experiences powered by data. It's a fun challenge to bring together the product thinking, math, software engineering, and design required to make a product feel like it has empathy. I'm particularly interested in search, discovery, recommendations, personalization.
+
+I use github to share side projects I work on for fun. If you want to connect email me at jkatzur@gmail.com
 
 <!--
 **jkatzur/jkatzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
